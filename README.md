@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me Youtube chanel=Intelligentrai &
-- Instagram=sumeetrai901
+- Instagram=sumeetrai_8
 
 <!---
 SumeetRai/SumeetRai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
