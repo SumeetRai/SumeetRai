@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumeetRai
 - 👀 I’m interested in Business
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me Youtube chanel=Intelligentrai &
 - Instagram=sumeetrai_8
