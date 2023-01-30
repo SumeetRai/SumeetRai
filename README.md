@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/SumeetRai/SumeetRai/blob/main/328352109_1234447247167093_8165281759826191924_n.png)
 <h1 align="center">Hi 👋, I'm Sumeet_Rai</h1>
 <h3 align="center">A professional Front-End Web-site Developer</h3>
 <img align="right" alt="coding"width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
